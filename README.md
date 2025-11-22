@@ -2,6 +2,6 @@
 
 🚀 Professionally cerified Data Analyst, skilled in SQL, Python, Power BI, Advanced Excel. 
 
-🎯 Hands-on in Alteryx, Snowflake, Google BigQuery.
+🎯 Hands-on in Alteryx, Snowflake, Jira, and Google BigQuery.
 
 🏆 Experienced in ETL, Data modeling, Data wrangling and Visualization.
