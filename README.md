@@ -4,4 +4,4 @@
 
 🎯 Hands-on in Alteryx, Snowflake, Google BigQuery.
 
-🏆 Experienced in ETL, Data modeling, Data wrangling and visualization.
+🏆 Experienced in ETL, Data modeling, Data wrangling and Visualization.
