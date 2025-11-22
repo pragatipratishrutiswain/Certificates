@@ -1,4 +1,4 @@
-## 📌 Welcome to my certificates' stack!
+# 📌 Welcome to my certificates' stack!
 
 🚀 Professionally cerified Data Analyst, skilled in SQL, Python, Power BI, Advanced Excel. 
 
